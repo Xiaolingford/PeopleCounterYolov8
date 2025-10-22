@@ -7,5 +7,6 @@ pip install ultralytics opencv-python
 pip install torch torchvision
 
 run from the directory of CountingPeople
-type python PeopleCounterYolo.py
+type python PeopleCounterYolo.py in terminal
+
 
